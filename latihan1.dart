@@ -7,5 +7,5 @@ void main() {
   stdout.write("Apa jurusan kamu? ");
   var jurusan = stdin.readLineSync();
 
-  print("Nama saya adalah $name dari jurusan $jurusan");
+  print("Halo, Nama saya adalah $name dari jurusan $jurusan");
 }
